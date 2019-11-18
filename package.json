@@ -1,0 +1,21 @@
+{
+  "name": "rollup-bug-empty-dymanic-import",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjenkinson/rollup-bug-empty-dymanic-import.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tjenkinson/rollup-bug-empty-dymanic-import/issues"
+  },
+  "homepage": "https://github.com/tjenkinson/rollup-bug-empty-dymanic-import#readme",
+  "dependencies": {
+    "rollup": "1.27.2"
+  }
+}
