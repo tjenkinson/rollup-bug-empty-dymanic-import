@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/tjenkinson/rollup-bug-empty-dymanic-import#readme",
   "dependencies": {
-    "rollup": "1.27.2"
+    "rollup": "1.32.0"
   }
 }
